@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Attach Big Cat
+  - Attach Med Cat
+  - Attach Sma Cat
+  - Cucumber
   layers:
   - Default
   - TransparentFX
